@@ -13,4 +13,4 @@ A simple Python project with you can guess a number and enjoy in your free time
 
 ## How to Run
 ```bash
-python your_script.py
+number guessing game.py
